@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/betterway-ecommerce/static/css/main.883e5fa7.css",
+    "main.js": "/betterway-ecommerce/static/js/main.d63c5280.js",
+    "index.html": "/betterway-ecommerce/index.html",
+    "main.883e5fa7.css.map": "/betterway-ecommerce/static/css/main.883e5fa7.css.map",
+    "main.d63c5280.js.map": "/betterway-ecommerce/static/js/main.d63c5280.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.883e5fa7.css",
+    "static/js/main.d63c5280.js"
+  ]
+}
